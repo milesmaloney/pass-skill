@@ -11,7 +11,9 @@ Lists all available passes for transportation customers, specifying price and us
 * "What do the passes cost?"
 * "I would like to select a specific ticket"
 * "I want to see more information about this ticket"
-* I want to look at this ticket in more detail"
+* "I want to look at this ticket in more detail"
+* "Show me this ticket"
+* "Show me more information about this ticket"
 
 ## Credits
 milesmaloney
